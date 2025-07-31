@@ -1,0 +1,40 @@
+# Core AI/ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+diffusers>=0.21.0
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+Pillow>=9.5.0
+
+# Audio processing
+librosa>=0.10.0
+scipy>=1.11.0
+soundfile>=0.12.0
+
+# TTS libraries (compatible with Python 3.11)
+TTS>=0.22.0
+pyttsx3>=2.90
+
+# Utility libraries
+numpy>=1.24.0
+tqdm>=4.65.0
+requests>=2.31.0
+matplotlib>=3.7.0
+
+# Jupyter (optional)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Development tools
+black>=23.0.0
+flake8>=6.0.0
+
+fastapi
+uvicorn
+scipy
+bark
